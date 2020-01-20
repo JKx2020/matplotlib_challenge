@@ -1,0 +1,5 @@
+1. If we're assuming that the smaller the tumor, the more effective the drug, then you can see that Ramicane and Capomulin are the two most effective drugs in the treatment tests when looking at the comarpison box plots. They are pretty consistent and there are no outliers in those two datsets. 
+
+2. When looking at a single mouse test for Capomulin, you can see that after every day the tumor does consistently shrink in volume. The more days the mouse is on the drug the smaller the tumor gets. 
+
+3. Looking at the correlation coefficient you can see that mouse weight and the size of the tumor are correlated. While this might not be a good indication that the drugs are working, it does show that mouse size does directly affect the size of it's tumors. 
