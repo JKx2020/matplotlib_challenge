@@ -15,3 +15,5 @@ Using Python, Pandas, Matplotlib, NumPy and SciPy.stats, I do the following anal
 * Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume
 * Plot the linear regression model on top of the previous scatter plot
+
+To run this project simply run the "pymaceuticals_starter.ipynb" file in your Visual Studio Code (or preferred source-code editor)
